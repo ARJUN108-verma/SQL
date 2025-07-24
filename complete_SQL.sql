@@ -163,7 +163,17 @@ ex- Select * from student
   ex- selct * from student 
       where stu_name like '%a%';
 
-Cheking
+  Constraints : Constraints are some predefine role that enforces to the columns for data integrity, consistency and accuracy.
+  1.Not null : the value or column must not be null.
+  2.Unique : the value of column must be unique.
+  3.primary key : combination of not null and unique. it also the combination of not null and unique constraints.
+  4.foreign key : it is used to merging two tables and refers to the primary key of first table.
+  5.default: it is used to set the default value in a column.
+  6.Check : it is used to check the condition.
+
+  joins -  it is used to combine two or more table.
+  1. inner joins: it returns the common records from both tables.
+  2.
 
           
 
