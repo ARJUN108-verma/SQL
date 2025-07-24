@@ -163,6 +163,7 @@ ex- Select * from student
   ex- selct * from student 
       where stu_name like '%a%';
 
+Cheking
 
           
 
